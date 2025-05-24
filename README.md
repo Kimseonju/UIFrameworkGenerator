@@ -72,6 +72,16 @@ Paste the result into:
 
 - Use UTF-8 encoding when editing `.cpp` files
 
+## 📌 Additional Notes
+
+- 🔒 Currently, **Python is not supported** for widget generation.
+- 🛠️ When Python support becomes available, we plan to integrate:
+  - JSON/CSV-driven dynamic layout generation
+  - ChatGPT-integrated live code-to-UI pipeline
+  - GUI-based layout editing via Python scripting
+
+Stay tuned for updates in future versions.
+
 ## Where Code?
 
     /*================================= Start ===================================*/
