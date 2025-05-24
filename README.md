@@ -23,11 +23,11 @@ CanvasPanel (Root)
 ```
 ## 🧠 How to Use
 
-This plugin uses **ChatGPT or Claude** to generate Unreal C++ widget creation code and builds the actual UMG Blueprint inside the Unreal Editor.
+This plugin uses **ChatGPT or Claude** (AI) to generate Unreal C++ widget creation code and builds the actual UMG Blueprint inside the Unreal Editor.
 
 ---
 
-### 1️⃣ Prompt ChatGPT or Claude
+### 1️⃣ Prompt ChatGPT or Claude (AI)
 
 1. 🧾 **Provide your current file**:  
    Copy and paste your existing `WidgetFrameworkCreator.cpp` source file (or just the `CreateRootWidgetBP()` function).
