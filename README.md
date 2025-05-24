@@ -65,9 +65,7 @@ Paste the result into:
 1. Launch Unreal Editor
 2. Enable `UIFrameworkGenerator` from **Plugins > Editor** section
 3. Run the plugin via **Editor Utility Widget**
-4. The widget will be generated and saved to:
-📸 *Generated Widget Preview:*  
-→ `Docs/generated_widget.png`
+4. The widget will be generated and saved to: /Game
 
 
 ## ✅ Summary
