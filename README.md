@@ -20,10 +20,6 @@ CanvasPanel (Root)
 │ └── Border
 │ └── Border
 │ └── HorizontalBox
-│ ├── Icon (✓, ○, ⚗)
-│ └── VerticalBox
-│ ├── Title + "Applied" (optional)
-│ └── Subtitle
 ```
 ## 🧠 How to Use
 
