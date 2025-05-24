@@ -33,19 +33,13 @@ This plugin uses **ChatGPT or Claude** to generate Unreal C++ widget creation co
 
 ### 1️⃣ Prompt ChatGPT or Claude
 
-Use a message like the following:
-Create a UUserWidget using C++ that contains:
+1. 🧾 **Provide your current file**:  
+   Copy and paste your existing `WidgetFrameworkCreator.cpp` source file (or just the `CreateRootWidgetBP()` function).
 
-A Canvas Panel as the root
+2. 🖼️ **Include your design image**:  
+   Add a screenshot, mockup, or layout sketch (e.g., Figma export) as visual reference.
 
-Three horizontal buttons with icons, titles, and subtitles
-
-A "Selected" tag on one of them
-
-They will return full C++ code using `UWidgetTree`.
-
-📸 *Example Prompt Screenshot:*  
-→ `Docs/ai_prompt.png`
+3. 💬 **Prompt the AI with instructions**:
 
 ---
 
@@ -54,9 +48,6 @@ They will return full C++ code using `UWidgetTree`.
 Paste the result into:
 - Replace or modify the `CreateRootWidgetBP()` function.
 - Be sure your function is properly defined and compiled.
-
-📸 *Code File Location Screenshot:*  
-→ `Docs/code_file.png`
 
 ---
 
