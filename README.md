@@ -82,7 +82,7 @@ Paste the result into:
 
 Stay tuned for updates in future versions.
 
-## Where Input Code?
+## 📄 Insert the AI-generated code here:
 
     /*================================= Start ===================================*/
 
